@@ -1,0 +1,32 @@
+body{   
+    background-color: blue;
+}
+
+h1{ 
+    color: aliceblue;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    background-color: black;
+    border: solid cornsilk;
+    border-radius: 10px;
+}
+
+.contenedor{    
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 10px;
+    padding: 10px;
+}
+
+table{  
+    text-align: center;
+    color: rgb(0, 255, 255);
+    border-radius: 10px;
+    border: solid cornsilk;
+    margin: 10px;
+    padding: 10px;
+}
